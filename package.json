@@ -1,0 +1,22 @@
+{
+  "name": "Q-AOP",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "should": "*"
+  },
+  "dependencies": {
+    "sandboxed-module": "^2.0.0",
+    "stack-trace": "0.0.9"
+  },
+  "author": "",
+  "license": "MIT"
+}
