@@ -1,5 +1,4 @@
 var SandboxedModule = require('sandboxed-module')
-  , stackTrace = require('stack-trace')
   , AOPFactory = require('./lib/factory');
 
 function analyse(path, opts) {

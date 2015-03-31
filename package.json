@@ -14,8 +14,7 @@
     "should": "*"
   },
   "dependencies": {
-    "sandboxed-module": "^2.0.0",
-    "stack-trace": "0.0.9"
+    "sandboxed-module": "^2.0.0"
   },
   "author": "",
   "license": "MIT"
